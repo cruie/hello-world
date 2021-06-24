@@ -1,6 +1,7 @@
-# hello-world
-
-Hi Human!
-
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!),
-I've had tacos on the moon and find them far superior to Earth tacos.
+# 阅读英文文档遇到的单词
+## k8s
+文档地址：https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/
+| 密码             | 内存 |
+| ---------------- | ---- |
+| individual Nodes      |  单节点   |
+| cluster  | 集群 |
